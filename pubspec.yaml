@@ -1,0 +1,107 @@
+name: saleclub
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^8.0.0
+  dio: ^5.0.0
+  get_it: ^7.2.0
+  equatable: ^2.0.3
+  provider: ^6.0.0
+  flutter_slidable: ^3.1.1
+ 
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/splash.png
+    - assets/logoFPT.png
+    - assets/logoApp.png
+    - assets/mobisale.png
+    - assets/fpt.png
+    - assets/book.png
+    - assets/eye_closed.png
+    - assets/eye_opened.png
+    - assets/Group.png
+    - assets/avartar.png
+    - assets/banner.png
+    - assets/mobisale.png
+    - assets/Cart-off.png
+    - assets/foxpay.png
+    - assets/Home-off.png
+    - assets/Home-on.png
+    - assets/Notify-off.png
+    - assets/Notify-on.png
+    - assets/phieuthicong.png
+    - assets/Profile-off.png
+    - assets/rightArrow.png
+    - assets/tiendotrienkhai.png
+    - assets/vitri.png
+    - assets/trong.png
+    - assets/Cart-on.png
+    - assets/Profile-on.png
+    - assets/Report-off.png
+    - assets/Report-on.png
+    - assets/leftArrow.png
+    - assets/nhanvattu.png
+    - assets/quanlyDTKD.png
+    - assets/tapdiem.png
+    - assets/tatcadichvu.png
+    - assets/khachHangTiemNang.png
+    - assets/AM.png
+    - assets/CSKH.png
+    - assets/thanhLy.png
+    - assets/chat.png
+    - assets/banMoi.png
+    - assets/quanlySale.png
+    - assets/PTMap.png
+    - assets/VioEdu.png
+    - assets/trienkhai.png
+    - assets/donhang.png
+    - assets/foxhelp.png
+    - assets/baocao.png
+    - assets/turn_off_noti.png
+    - assets/no-noti.png
+    - assets/delete.png
+    - assets/payment.png
+    - assets/news.png
+    - assets/customer-noti.png
+    - assets/detail_noti.png
+    - assets/tick.png
+    - assets/error.png
+    - assets/warning.png
+    - assets/bell.png
+    - assets/close.png
+    - assets/profile_avartar.png
+    - assets/profile_banner.png
+    - assets/profile_rightArrow.png
+    - assets/thongtincanhan.png
+    - assets/nhanthongbao.png
+    - assets/doimatkhau.png
+    - assets/viFoxpay.png
+    - assets/nganhang.png
+    - assets/hanmuc.png
+    - assets/hdsd.png
+    - assets/thongtinungdung.png
+    - assets/xephangthanhvien.png
+    - assets/qr.png
+    - assets/pic.png
+    - assets/logout.png
+    - assets/version.png
+  
+
+    
+
